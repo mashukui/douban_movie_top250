@@ -1,0 +1,2 @@
+# douban_movie_top250
+用python爬取豆瓣电影top250排行榜的榜单数据。
